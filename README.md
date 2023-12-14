@@ -5,6 +5,8 @@
 
 I live in Nairobi Kenya
 
+#### i am currently working on two projects: A ReactJs frontend api for MAYAN EDMS Open source project; and my regular 8-5 job project (Land information management system - Ardhisasa)
+
 <!--
 **kiokogit/kiokogit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
