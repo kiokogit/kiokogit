@@ -3,9 +3,8 @@
 ## My name is Vincent Kioko
 # Software Engineer
 
-I live in Nairobi Kenya
 
-#### i am currently working on two projects: A ReactJs frontend api for MAYAN EDMS Open source project; and my regular 8-5 job project (Land information management system - Ardhisasa)
+#### As a software engineer, I develop and maintain web-based systems for the ministry of lands, public works and housing, aiming to enhance the digitization of the country's government services. I work with Python, Django, ReactJs, NodeJs, PostgreSQL, and MongoDB to create solutions that are scalable, agile, and secure, handling sensitive and high-demand data and information
 
 <!--
 **kiokogit/kiokogit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
